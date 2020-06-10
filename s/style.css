@@ -1,0 +1,37 @@
+p {
+    margin: 10px 50px 200px;
+}
+
+#box {
+    margin: 0 auto;
+    background: cyan;
+    width:60%;
+    text-align: center;
+}
+
+#box img {
+    width: 17%;
+    margin:1%;
+}
+
+#box img.img-1 {
+    position: static;
+
+}
+
+#box img.img-2 {
+    position: relative;
+  
+}
+
+#box img.img-3 {
+
+}
+
+#box img.img-4 {
+
+}
+
+#box img.img-5 {
+    position: ;    
+}
